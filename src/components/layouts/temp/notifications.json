@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "type": "SEVERE",
+      "title": "Control Valves & Actuators",
+      "message": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "equipId": "CVABAN 014",
+      "isRead": false,
+      "timestamp": "2025-04-27T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "type": "SEVERE",
+      "title": "Industrial Ovens & Furnaces",
+      "message": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "equipId": "IOFBAN 006",
+      "isRead": true,
+      "timestamp": "2025-04-27T07:30:00Z"
+    },
+    {
+      "id": 3,
+      "type": "MAJOR",
+      "title": "Diesel Generator",
+      "message": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "equipId": "DGBAN 268",
+      "isRead": false,
+      "timestamp": "2025-04-27T07:00:00Z"
+    },
+    {
+      "id": 4,
+      "type": "MAJOR",
+      "title": "DCS & SCADA Systems",
+      "message": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "equipId": "DCSSBAN 026",
+      "isRead": false,
+      "timestamp": "2025-04-27T06:45:00Z"
+    },
+    {
+      "id": 5,
+      "type": "CONSIDERABLE",
+      "title": "You have no notifications to display",
+      "message": "",
+      "equipId": "",
+      "isRead": true,
+      "timestamp": "2025-04-27T06:00:00Z"
+    }
+  ]
